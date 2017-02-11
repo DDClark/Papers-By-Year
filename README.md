@@ -6,7 +6,7 @@ This shouldn't take long
 
 * Marvin Minsky. Steps toward artificial intelligence. Proceedings of the IRE, 49:8–30, 1961.
 
->This means that we can work toward programming what will be, in effect, "thinking aids." In the years to come, we expect that these man-machine systems will share, and perhaps for a time be dominant, in our advance toward the development of "artificial itntelligence."
+>This means that we can work toward programming that will be, in effect, "thinking aids." In the years to come, we expect that these man-machine systems will share, and perhaps for a time be dominant, in our advance toward the development of "artificial itntelligence."
 
 
 ##2010s
