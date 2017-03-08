@@ -1,6 +1,11 @@
 # Papers-By-Year
 
 Where we look at what was written when and by who with a few comments here and there.
+
+##1940s
+
+* Norbert Wiener. Cybernetics: Or Control and Communication in the Animal and the Machine. Paris (Hermann & Cie) & Camb. Mass. (MIT Press); 1948, 2nd revised ed. 1961.
+
 ##1960s
 This shouldn't take long
 
